@@ -44,7 +44,8 @@ When you run the game, a window will open with a 4x4 Sudoku grid. Some cells wil
 
 ### GUI Example
 
-![Sudoku GUI](sudoku_gui_example.png)
+![image](https://github.com/AmirMohammadSaberi99/Sudoko/assets/64252685/6a84bd97-5e43-4d22-b941-1cc4ff7fe1a3)
+
 
 ## File Structure
 
@@ -55,11 +56,4 @@ When you run the game, a window will open with a 4x4 Sudoku grid. Some cells wil
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- This project is inspired by the need for a simple, fun, and interactive way to solve Sudoku puzzles.
 

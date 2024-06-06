@@ -44,7 +44,8 @@ When you run the game, a window will open with a 4x4 Sudoku grid. Some cells wil
 
 ### GUI Example
 
-![image](https://github.com/AmirMohammadSaberi99/Sudoko/assets/64252685/6a84bd97-5e43-4d22-b941-1cc4ff7fe1a3)
+![image](https://github.com/AmirMohammadSaberi99/Sudoko/assets/64252685/df64bb0b-fc4a-41ae-af90-241dc6f3cab7)
+
 
 
 ## File Structure
